@@ -123,11 +123,11 @@ Defined in the `steering_offset` namespace. This logic is designed as simple as 
 
 {{ json_to_markdown("control/autoware_mpc_lateral_controller/schema/sub/steering_offset.json") }}
 
-##### For dynamics model (WIP)
+#### For dynamics model (WIP)
 
 {{ json_to_markdown("control/autoware_mpc_lateral_controller/schema/sub/dynamics_model.json") }}
 
-##### publish debug predicted trajectory in Frenet coordinate
+#### Debug
 
 {{ json_to_markdown("control/autoware_mpc_lateral_controller/schema/sub/debug_publish.json") }}
 
